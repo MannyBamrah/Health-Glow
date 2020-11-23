@@ -1,0 +1,1317 @@
+{
+  "message": "Success",
+  "data": {
+    "totalCount": 168,
+    "products": [
+      {
+        "skuId": "552187",
+        "skuName": "L'Oreal Paris Rouge Signature Lip Colour I Choose 121",
+        "defaultPrice": 650,
+        "listPrice": 650,
+        "skuDiscPercentage": 0,
+        "skuPromoText": null,
+        "skuAverageRating": 0,
+        "inWishList": false,
+        "isAvailable": true,
+        "skuUrlLink": "loreal-paris-rouge-signature-lip-colour-i-choose-121",
+        "categoryUrlLink": "lipstick",
+        "brandUrlLink": "loreal-paris",
+        "skuImageUrl": "https://storage.googleapis.com/hng-static/plp/552187_1.jpg",
+        "deepLinkUrl": "https://healthandglow.com/loreal-paris-rouge-signature-lip-colour-i-choose-121/p/NTUyMTg3",
+        "tagImageUrlList": null,
+        "tagImageUrlGrid": null,
+        "categoryName": "Lipstick",
+        "parentCategoryName": "Lips",
+        "superCategoryName": "Makeup",
+        "skuTag": null
+      },
+      {
+        "skuId": "541893",
+        "skuName": "L'Oreal Paris True Match Foundation Golden Toffee 6.5.D/6.5.W 30ml",
+        "defaultPrice": 799,
+        "listPrice": 799,
+        "skuDiscPercentage": 0,
+        "skuPromoText": null,
+        "skuAverageRating": 0,
+        "inWishList": false,
+        "isAvailable": true,
+        "skuUrlLink": "loreal-paris-true-match-foundation-golden-toffee-65d65w-30ml",
+        "categoryUrlLink": "foundation",
+        "brandUrlLink": "loreal-paris",
+        "skuImageUrl": "https://storage.googleapis.com/hng-static/plp/541893_1.jpg",
+        "deepLinkUrl": "https://healthandglow.com/loreal-paris-true-match-foundation-golden-toffee-65d65w-30ml/p/NTQxODkz",
+        "tagImageUrlList": null,
+        "tagImageUrlGrid": null,
+        "categoryName": "Foundation",
+        "parentCategoryName": "Face",
+        "superCategoryName": "Makeup",
+        "skuTag": null
+      },
+      {
+        "skuId": "532848",
+        "skuName": "L'Oreal Paris White Perfect Clinical Day Cream SPF19 PA+++ 50ml",
+        "defaultPrice": 1170,
+        "listPrice": 1170,
+        "skuDiscPercentage": 0,
+        "skuPromoText": null,
+        "skuAverageRating": 4.5,
+        "inWishList": false,
+        "isAvailable": true,
+        "skuUrlLink": "loreal-paris-white-perfect-clinical-day-cream-spf19-pa-50ml",
+        "categoryUrlLink": "day-creams",
+        "brandUrlLink": "loreal-paris",
+        "skuImageUrl": "https://storage.googleapis.com/hng-static/plp/532848_1.jpg",
+        "deepLinkUrl": "https://healthandglow.com/loreal-paris-white-perfect-clinical-day-cream-spf19-pa-50ml/p/NTMyODQ4",
+        "tagImageUrlList": null,
+        "tagImageUrlGrid": null,
+        "categoryName": "Day Creams",
+        "parentCategoryName": "Moisturizers & Creams",
+        "superCategoryName": "Skin",
+        "skuTag": null
+      },
+      {
+        "skuId": "511449",
+        "skuName": "L'Oreal Paris White Perfect Milky Foam 100ml",
+        "defaultPrice": 349,
+        "listPrice": 349,
+        "skuDiscPercentage": 0,
+        "skuPromoText": null,
+        "skuAverageRating": 4.7,
+        "inWishList": false,
+        "isAvailable": true,
+        "skuUrlLink": "loreal-paris-white-perfect-milky-foam-100ml",
+        "categoryUrlLink": "face-wash",
+        "brandUrlLink": "loreal-paris",
+        "skuImageUrl": "https://storage.googleapis.com/hng-static/plp/511449_1.jpg",
+        "deepLinkUrl": "https://healthandglow.com/loreal-paris-white-perfect-milky-foam-100ml/p/NTExNDQ5",
+        "tagImageUrlList": "https://storage.googleapis.com/hng-static/product-tags/bestseller_listview.png",
+        "tagImageUrlGrid": "https://storage.googleapis.com/hng-static/product-tags/bestseller_gridview.png",
+        "categoryName": "Face Wash",
+        "parentCategoryName": "Wash & Cleansers",
+        "superCategoryName": "Skin",
+        "skuTag": "BEST_SELLERS"
+      },
+      {
+        "skuId": "535239",
+        "skuName": "L'Oreal Paris Revitalift Laser X3 Anti Ageing Day Cream 50gm",
+        "defaultPrice": 1400,
+        "listPrice": 1400,
+        "skuDiscPercentage": 0,
+        "skuPromoText": null,
+        "skuAverageRating": 5,
+        "inWishList": false,
+        "isAvailable": true,
+        "skuUrlLink": "loreal-paris-revitalift-laser-x3-anti-ageing-day-cream-50gm",
+        "categoryUrlLink": "anti-ageing",
+        "brandUrlLink": "loreal-paris",
+        "skuImageUrl": "https://storage.googleapis.com/hng-static/plp/535239_1.jpg",
+        "deepLinkUrl": "https://healthandglow.com/loreal-paris-revitalift-laser-x3-anti-ageing-day-cream-50gm/p/NTM1MjM5",
+        "tagImageUrlList": null,
+        "tagImageUrlGrid": null,
+        "categoryName": "Anti-Ageing",
+        "parentCategoryName": "Treatments & Concerns",
+        "superCategoryName": "Skin",
+        "skuTag": null
+      },
+      {
+        "skuId": "541021",
+        "skuName": "L'Oreal Paris White Perfect Clinical Derm White Anti-Spot Whitening Essence 30ml",
+        "defaultPrice": 1480,
+        "listPrice": 1480,
+        "skuDiscPercentage": 0,
+        "skuPromoText": null,
+        "skuAverageRating": 0,
+        "inWishList": false,
+        "isAvailable": true,
+        "skuUrlLink": "loreal-paris-white-perfect-clinical-derm-white-anti-spot-whitening-essence-30ml",
+        "categoryUrlLink": "face-serums",
+        "brandUrlLink": "loreal-paris",
+        "skuImageUrl": "https://storage.googleapis.com/hng-static/plp/541021_1.jpg",
+        "deepLinkUrl": "https://healthandglow.com/loreal-paris-white-perfect-clinical-derm-white-anti-spot-whitening-essence-30ml/p/NTQxMDIx",
+        "tagImageUrlList": null,
+        "tagImageUrlGrid": null,
+        "categoryName": "Face Serums",
+        "parentCategoryName": "Serums",
+        "superCategoryName": "Skin",
+        "skuTag": null
+      },
+      {
+        "skuId": "537419",
+        "skuName": "L'Oreal Paris Revitalift Laser X3 Anti Ageing Night Cream Mask 50ml",
+        "defaultPrice": 1400,
+        "listPrice": 1400,
+        "skuDiscPercentage": 0,
+        "skuPromoText": null,
+        "skuAverageRating": 0,
+        "inWishList": false,
+        "isAvailable": true,
+        "skuUrlLink": "loreal-paris-revitalift-laser-x3-anti-ageing-night-cream-mask-50ml",
+        "categoryUrlLink": "anti-ageing",
+        "brandUrlLink": "loreal-paris",
+        "skuImageUrl": "https://storage.googleapis.com/hng-static/plp/537419_1.jpg",
+        "deepLinkUrl": "https://healthandglow.com/loreal-paris-revitalift-laser-x3-anti-ageing-night-cream-mask-50ml/p/NTM3NDE5",
+        "tagImageUrlList": null,
+        "tagImageUrlGrid": null,
+        "categoryName": "Anti-Ageing",
+        "parentCategoryName": "Treatments & Concerns",
+        "superCategoryName": "Skin",
+        "skuTag": null
+      },
+      {
+        "skuId": "511450",
+        "skuName": "L'Oreal Paris White Perfect Night Cream 50ml",
+        "defaultPrice": 550,
+        "listPrice": 550,
+        "skuDiscPercentage": 0,
+        "skuPromoText": null,
+        "skuAverageRating": 0,
+        "inWishList": false,
+        "isAvailable": true,
+        "skuUrlLink": "loreal-paris-white-perfect-night-cream-50ml",
+        "categoryUrlLink": "night-creams",
+        "brandUrlLink": "loreal-paris",
+        "skuImageUrl": "https://storage.googleapis.com/hng-static/plp/511450_1.jpg",
+        "deepLinkUrl": "https://healthandglow.com/loreal-paris-white-perfect-night-cream-50ml/p/NTExNDUw",
+        "tagImageUrlList": null,
+        "tagImageUrlGrid": null,
+        "categoryName": "Night Creams",
+        "parentCategoryName": "Moisturizers & Creams",
+        "superCategoryName": "Skin",
+        "skuTag": null
+      },
+      {
+        "skuId": "528901",
+        "skuName": "L'Oreal Paris Base Magique Transforming Smoothing Primer 15ml",
+        "defaultPrice": 970,
+        "listPrice": 970,
+        "skuDiscPercentage": 0,
+        "skuPromoText": null,
+        "skuAverageRating": 0,
+        "inWishList": false,
+        "isAvailable": true,
+        "skuUrlLink": "loreal-paris-base-magique-transforming-smoothing-primer-15ml",
+        "categoryUrlLink": "face-primer",
+        "brandUrlLink": "loreal-paris",
+        "skuImageUrl": "https://storage.googleapis.com/hng-static/plp/528901_1.jpg",
+        "deepLinkUrl": "https://healthandglow.com/loreal-paris-base-magique-transforming-smoothing-primer-15ml/p/NTI4OTAx",
+        "tagImageUrlList": null,
+        "tagImageUrlGrid": null,
+        "categoryName": "Face Primer",
+        "parentCategoryName": "Face",
+        "superCategoryName": "Makeup",
+        "skuTag": null
+      },
+      {
+        "skuId": "525143",
+        "skuName": "L'Oreal Paris Revitalift moisturising Day Cream SPF23 PA++ 50ml",
+        "defaultPrice": 845,
+        "listPrice": 845,
+        "skuDiscPercentage": 0,
+        "skuPromoText": null,
+        "skuAverageRating": 0,
+        "inWishList": false,
+        "isAvailable": true,
+        "skuUrlLink": "loreal-paris-revitalift-moisturising-day-cream-spf23-pa-50ml",
+        "categoryUrlLink": "day-creams",
+        "brandUrlLink": "loreal-paris",
+        "skuImageUrl": "https://storage.googleapis.com/hng-static/plp/525143_1.jpg",
+        "deepLinkUrl": "https://healthandglow.com/loreal-paris-revitalift-moisturising-day-cream-spf23-pa-50ml/p/NTI1MTQz",
+        "tagImageUrlList": null,
+        "tagImageUrlGrid": null,
+        "categoryName": "Day Creams",
+        "parentCategoryName": "Moisturizers & Creams",
+        "superCategoryName": "Skin",
+        "skuTag": null
+      },
+      {
+        "skuId": "535288",
+        "skuName": "L'Oreal Paris 6 Oil Nourish Shampoo 360ml",
+        "defaultPrice": 199,
+        "listPrice": 199,
+        "skuDiscPercentage": 0,
+        "skuPromoText": null,
+        "skuAverageRating": 0,
+        "inWishList": false,
+        "isAvailable": true,
+        "skuUrlLink": "loreal-paris-6-oil-nourish-shampoo-360ml",
+        "categoryUrlLink": "shampoo",
+        "brandUrlLink": "loreal-paris",
+        "skuImageUrl": "https://storage.googleapis.com/hng-static/plp/535288_1.jpg",
+        "deepLinkUrl": "https://healthandglow.com/loreal-paris-6-oil-nourish-shampoo-360ml/p/NTM1Mjg4",
+        "tagImageUrlList": null,
+        "tagImageUrlGrid": null,
+        "categoryName": "Shampoo",
+        "parentCategoryName": "Hair Care",
+        "superCategoryName": "Hair",
+        "skuTag": null
+      },
+      {
+        "skuId": "531836",
+        "skuName": "L'Oreal Paris Men Expert White Activ Charcoal Brightening Foam 100ml",
+        "defaultPrice": 499,
+        "listPrice": 499,
+        "skuDiscPercentage": 0,
+        "skuPromoText": null,
+        "skuAverageRating": 3,
+        "inWishList": false,
+        "isAvailable": true,
+        "skuUrlLink": "loreal-paris-men-expert-white-activ-charcoal-brightening-foam-100ml",
+        "categoryUrlLink": "face-wash-and-cleansers",
+        "brandUrlLink": "loreal-paris",
+        "skuImageUrl": "https://storage.googleapis.com/hng-static/plp/531836_1.jpg",
+        "deepLinkUrl": "https://healthandglow.com/loreal-paris-men-expert-white-activ-charcoal-brightening-foam-100ml/p/NTMxODM2",
+        "tagImageUrlList": null,
+        "tagImageUrlGrid": null,
+        "categoryName": "Face Wash & Cleansers",
+        "parentCategoryName": "Skin Care",
+        "superCategoryName": "Men's Store",
+        "skuTag": null
+      },
+      {
+        "skuId": "505082",
+        "skuName": "L'Oreal Paris Excellence Hair Colour Natural Dark Brown 4",
+        "defaultPrice": 620,
+        "listPrice": 620,
+        "skuDiscPercentage": 0,
+        "skuPromoText": null,
+        "skuAverageRating": 0,
+        "inWishList": false,
+        "isAvailable": true,
+        "skuUrlLink": "loreal-paris-excellence-hair-colour-natural-dark-brown-4",
+        "categoryUrlLink": "hair-colours",
+        "brandUrlLink": "loreal-paris",
+        "skuImageUrl": "https://storage.googleapis.com/hng-static/plp/505082_1.jpg",
+        "deepLinkUrl": "https://healthandglow.com/loreal-paris-excellence-hair-colour-natural-dark-brown-4/p/NTA1MDgy",
+        "tagImageUrlList": null,
+        "tagImageUrlGrid": null,
+        "categoryName": "Hair Colours",
+        "parentCategoryName": "Styling",
+        "superCategoryName": "Hair",
+        "skuTag": null
+      },
+      {
+        "skuId": "522187",
+        "skuName": "L'Oreal Paris Casting Creme Gloss Dark Chocolate 323",
+        "defaultPrice": 550,
+        "listPrice": 550,
+        "skuDiscPercentage": 0,
+        "skuPromoText": null,
+        "skuAverageRating": 0,
+        "inWishList": false,
+        "isAvailable": true,
+        "skuUrlLink": "loreal-paris-casting-creme-gloss-dark-chocolate-323",
+        "categoryUrlLink": "hair-colours",
+        "brandUrlLink": "loreal-paris",
+        "skuImageUrl": "https://storage.googleapis.com/hng-static/plp/522187_1.jpg",
+        "deepLinkUrl": "https://healthandglow.com/loreal-paris-casting-creme-gloss-dark-chocolate-323/p/NTIyMTg3",
+        "tagImageUrlList": null,
+        "tagImageUrlGrid": null,
+        "categoryName": "Hair Colours",
+        "parentCategoryName": "Styling",
+        "superCategoryName": "Hair",
+        "skuTag": null
+      },
+      {
+        "skuId": "522183",
+        "skuName": "L'Oreal Paris Casting Creme Gloss Ebony Black 200",
+        "defaultPrice": 550,
+        "listPrice": 550,
+        "skuDiscPercentage": 0,
+        "skuPromoText": null,
+        "skuAverageRating": 0,
+        "inWishList": false,
+        "isAvailable": true,
+        "skuUrlLink": "loreal-paris-casting-creme-gloss-ebony-black-200",
+        "categoryUrlLink": "hair-colours",
+        "brandUrlLink": "loreal-paris",
+        "skuImageUrl": "https://storage.googleapis.com/hng-static/plp/522183_1.jpg",
+        "deepLinkUrl": "https://healthandglow.com/loreal-paris-casting-creme-gloss-ebony-black-200/p/NTIyMTgz",
+        "tagImageUrlList": null,
+        "tagImageUrlGrid": null,
+        "categoryName": "Hair Colours",
+        "parentCategoryName": "Styling",
+        "superCategoryName": "Hair",
+        "skuTag": null
+      },
+      {
+        "skuId": "535924",
+        "skuName": "L'Oreal Paris White Perfect Clinical Overnight Treatment 50ml",
+        "defaultPrice": 1170,
+        "listPrice": 1170,
+        "skuDiscPercentage": 0,
+        "skuPromoText": null,
+        "skuAverageRating": 0,
+        "inWishList": false,
+        "isAvailable": true,
+        "skuUrlLink": "loreal-paris-white-perfect-clinical-overnight-treatment-50ml",
+        "categoryUrlLink": "night-creams",
+        "brandUrlLink": "loreal-paris",
+        "skuImageUrl": "https://storage.googleapis.com/hng-static/plp/535924_1.jpg",
+        "deepLinkUrl": "https://healthandglow.com/loreal-paris-white-perfect-clinical-overnight-treatment-50ml/p/NTM1OTI0",
+        "tagImageUrlList": null,
+        "tagImageUrlGrid": null,
+        "categoryName": "Night Creams",
+        "parentCategoryName": "Moisturizers & Creams",
+        "superCategoryName": "Skin",
+        "skuTag": null
+      },
+      {
+        "skuId": "522184",
+        "skuName": "L'Oreal Paris Casting Creme Gloss Hair Colour Darkest Brown 300",
+        "defaultPrice": 550,
+        "listPrice": 550,
+        "skuDiscPercentage": 0,
+        "skuPromoText": null,
+        "skuAverageRating": 0,
+        "inWishList": false,
+        "isAvailable": true,
+        "skuUrlLink": "loreal-paris-casting-creme-gloss-hair-colour-darkest-brown-300",
+        "categoryUrlLink": "hair-colours",
+        "brandUrlLink": "loreal-paris",
+        "skuImageUrl": "https://storage.googleapis.com/hng-static/plp/522184_1.jpg",
+        "deepLinkUrl": "https://healthandglow.com/loreal-paris-casting-creme-gloss-hair-colour-darkest-brown-300/p/NTIyMTg0",
+        "tagImageUrlList": null,
+        "tagImageUrlGrid": null,
+        "categoryName": "Hair Colours",
+        "parentCategoryName": "Styling",
+        "superCategoryName": "Hair",
+        "skuTag": null
+      },
+      {
+        "skuId": "522667",
+        "skuName": "L'Oreal Paris Excellence Creme Hair Colour Aishwarya's Brown 425",
+        "defaultPrice": 590,
+        "listPrice": 590,
+        "skuDiscPercentage": 0,
+        "skuPromoText": null,
+        "skuAverageRating": 0,
+        "inWishList": false,
+        "isAvailable": true,
+        "skuUrlLink": "loreal-paris-excellence-creme-hair-colour-aishwaryas-brown-425",
+        "categoryUrlLink": "hair-colours",
+        "brandUrlLink": "loreal-paris",
+        "skuImageUrl": "https://storage.googleapis.com/hng-static/plp/522667_1.jpg",
+        "deepLinkUrl": "https://healthandglow.com/loreal-paris-excellence-creme-hair-colour-aishwaryas-brown-425/p/NTIyNjY3",
+        "tagImageUrlList": null,
+        "tagImageUrlGrid": null,
+        "categoryName": "Hair Colours",
+        "parentCategoryName": "Styling",
+        "superCategoryName": "Hair",
+        "skuTag": null
+      },
+      {
+        "skuId": "538303",
+        "skuName": "L'Oreal Paris Super Liner 36H Gel Intenza Profound Black",
+        "defaultPrice": 800,
+        "listPrice": 800,
+        "skuDiscPercentage": 0,
+        "skuPromoText": null,
+        "skuAverageRating": 0,
+        "inWishList": false,
+        "isAvailable": true,
+        "skuUrlLink": "loreal-paris-super-liner-36h-gel-intenza-profound-black",
+        "categoryUrlLink": "eyeliner",
+        "brandUrlLink": "loreal-paris",
+        "skuImageUrl": "https://storage.googleapis.com/hng-static/plp/538303_1.jpg",
+        "deepLinkUrl": "https://healthandglow.com/loreal-paris-super-liner-36h-gel-intenza-profound-black/p/NTM4MzAz",
+        "tagImageUrlList": null,
+        "tagImageUrlGrid": null,
+        "categoryName": "Eyeliner",
+        "parentCategoryName": "Eyes",
+        "superCategoryName": "Makeup",
+        "skuTag": null
+      },
+      {
+        "skuId": "532597",
+        "skuName": "L'Oreal Paris True Match Super Blendable Powder Rose Vanilla 2.F/2.C",
+        "defaultPrice": 725,
+        "listPrice": 725,
+        "skuDiscPercentage": 0,
+        "skuPromoText": null,
+        "skuAverageRating": 0,
+        "inWishList": false,
+        "isAvailable": true,
+        "skuUrlLink": "loreal-paris-true-match-super-blendable-powder-rose-vanilla-2f2c",
+        "categoryUrlLink": "compact",
+        "brandUrlLink": "loreal-paris",
+        "skuImageUrl": "https://storage.googleapis.com/hng-static/plp/532597_1.jpg",
+        "deepLinkUrl": "https://healthandglow.com/loreal-paris-true-match-super-blendable-powder-rose-vanilla-2f2c/p/NTMyNTk3",
+        "tagImageUrlList": null,
+        "tagImageUrlGrid": null,
+        "categoryName": "Compact",
+        "parentCategoryName": "Face",
+        "superCategoryName": "Makeup",
+        "skuTag": null
+      }
+    ],
+    "title": "L'Oreal Paris",
+    "searchQuery": "tag:loreal-paris",
+    "landingImage": null,
+    "campaign": null,
+    "aggregations": [
+      {
+        "text": "Category",
+        "name": "category",
+        "isForMultiSelection": true,
+        "buckets": [
+          {
+            "text": "Hair colours",
+            "key": "hair-colours",
+            "docCount": 24,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Shampoo",
+            "key": "shampoo",
+            "docCount": 21,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Lipstick",
+            "key": "lipstick",
+            "docCount": 18,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Conditioners",
+            "key": "conditioners",
+            "docCount": 13,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Foundation",
+            "key": "foundation",
+            "docCount": 9,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Liquid lipstick",
+            "key": "liquid-lipstick",
+            "docCount": 9,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Compact",
+            "key": "compact",
+            "docCount": 7,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Day creams",
+            "key": "day-creams",
+            "docCount": 6,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Eyeliner",
+            "key": "eyeliner",
+            "docCount": 6,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Face wash",
+            "key": "face-wash",
+            "docCount": 5,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Lip gloss",
+            "key": "lip-gloss",
+            "docCount": 5,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Moisturisers",
+            "key": "moisturisers",
+            "docCount": 5,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Face wash and cleansers",
+            "key": "face-wash-and-cleansers",
+            "docCount": 4,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Creams and moisturisers",
+            "key": "creams-and-moisturisers",
+            "docCount": 3,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Hair serums and leave ins",
+            "key": "hair-serums-and-leave-ins",
+            "docCount": 3,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Mascara",
+            "key": "mascara",
+            "docCount": 3,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Mists and essences",
+            "key": "mists-and-essences",
+            "docCount": 3,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Night creams",
+            "key": "night-creams",
+            "docCount": 3,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Anti ageing",
+            "key": "anti-ageing",
+            "docCount": 2,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Concealer",
+            "key": "concealer",
+            "docCount": 2,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Eyeshadow",
+            "key": "eyeshadow",
+            "docCount": 2,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Face masks",
+            "key": "face-masks",
+            "docCount": 2,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Kajal and kohls",
+            "key": "kajal-and-kohls",
+            "docCount": 2,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Makeup removers",
+            "key": "makeup-removers",
+            "docCount": 2,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Eyebrow enhancers",
+            "key": "eyebrow-enhancers",
+            "docCount": 1,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Face primer",
+            "key": "face-primer",
+            "docCount": 1,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Face scrubs",
+            "key": "face-scrubs",
+            "docCount": 1,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Face serums",
+            "key": "face-serums",
+            "docCount": 1,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Facial cleansers",
+            "key": "facial-cleansers",
+            "docCount": 1,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Hair creams and masks",
+            "key": "hair-creams-and-masks",
+            "docCount": 1,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Highlighter",
+            "key": "highlighter",
+            "docCount": 1,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Scrubs and exfoliators",
+            "key": "scrubs-and-exfoliators",
+            "docCount": 1,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Toner",
+            "key": "toner",
+            "docCount": 1,
+            "showDocCount": true,
+            "isSelected": false
+          }
+        ]
+      },
+      {
+        "text": "Brand",
+        "name": "brand",
+        "isForMultiSelection": true,
+        "buckets": [
+          {
+            "text": "Loreal paris",
+            "key": "loreal-paris",
+            "docCount": 168,
+            "showDocCount": true,
+            "isSelected": false
+          }
+        ]
+      },
+      {
+        "text": "Gender",
+        "name": "gender",
+        "isForMultiSelection": true,
+        "buckets": [
+          {
+            "text": "Women",
+            "key": "Women",
+            "docCount": 94,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Unisex",
+            "key": "Unisex",
+            "docCount": 66,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Men",
+            "key": "Men",
+            "docCount": 8,
+            "showDocCount": true,
+            "isSelected": false
+          }
+        ]
+      },
+      {
+        "text": "Price",
+        "name": "price",
+        "isForMultiSelection": false,
+        "buckets": [
+          {
+            "text": "₹1 - ₹250",
+            "key": "1.0-250.4",
+            "docCount": 42,
+            "showDocCount": false,
+            "isSelected": false,
+            "from": 1,
+            "to": 250
+          },
+          {
+            "text": "₹250 - ₹500",
+            "key": "250.5-500.4",
+            "docCount": 25,
+            "showDocCount": false,
+            "isSelected": false,
+            "from": 250,
+            "to": 500
+          },
+          {
+            "text": "₹500 - ₹750",
+            "key": "500.5-750.4",
+            "docCount": 56,
+            "showDocCount": false,
+            "isSelected": false,
+            "from": 500,
+            "to": 750
+          },
+          {
+            "text": "₹750 - ₹1000",
+            "key": "750.5-1000.4",
+            "docCount": 36,
+            "showDocCount": false,
+            "isSelected": false,
+            "from": 750,
+            "to": 1000
+          },
+          {
+            "text": "₹1000 - ₹2000",
+            "key": "1000.5-2000.4",
+            "docCount": 9,
+            "showDocCount": false,
+            "isSelected": false,
+            "from": 1000,
+            "to": 2000
+          },
+          {
+            "text": "₹2000 - ₹9999",
+            "key": "2000.5-9999.0",
+            "docCount": 0,
+            "showDocCount": false,
+            "isSelected": false,
+            "from": 2000,
+            "to": 9999
+          }
+        ]
+      },
+      {
+        "text": "Offer",
+        "name": "offer",
+        "isForMultiSelection": false,
+        "buckets": [
+          {
+            "text": "Special Offer",
+            "key": "1.0-2.0",
+            "docCount": 0,
+            "showDocCount": false,
+            "isSelected": false,
+            "from": 1,
+            "to": 2
+          },
+          {
+            "text": "10% & Higher",
+            "key": "10.0-99.0",
+            "docCount": 0,
+            "showDocCount": false,
+            "isSelected": false,
+            "from": 10,
+            "to": 99
+          },
+          {
+            "text": "20% & Higher",
+            "key": "20.0-99.0",
+            "docCount": 0,
+            "showDocCount": false,
+            "isSelected": false,
+            "from": 20,
+            "to": 99
+          },
+          {
+            "text": "30% & Higher",
+            "key": "30.0-99.0",
+            "docCount": 0,
+            "showDocCount": false,
+            "isSelected": false,
+            "from": 30,
+            "to": 99
+          },
+          {
+            "text": "40% & Higher",
+            "key": "40.0-99.0",
+            "docCount": 0,
+            "showDocCount": false,
+            "isSelected": false,
+            "from": 40,
+            "to": 99
+          },
+          {
+            "text": "50% & Higher",
+            "key": "50.0-99.0",
+            "docCount": 0,
+            "showDocCount": false,
+            "isSelected": false,
+            "from": 50,
+            "to": 99
+          }
+        ]
+      },
+      {
+        "text": "Shade",
+        "name": "shade",
+        "isForMultiSelection": true,
+        "buckets": [
+          {
+            "text": "Brown",
+            "key": "Brown",
+            "docCount": 20,
+            "showDocCount": true,
+            "isSelected": false,
+            "colorCode": "#8e3c36"
+          },
+          {
+            "text": "Pink",
+            "key": "Pink",
+            "docCount": 9,
+            "showDocCount": true,
+            "isSelected": false,
+            "colorCode": "#ff37bc"
+          },
+          {
+            "text": "Maroon",
+            "key": "Maroon",
+            "docCount": 7,
+            "showDocCount": true,
+            "isSelected": false,
+            "colorCode": "#7a0303"
+          },
+          {
+            "text": "Black",
+            "key": "Black",
+            "docCount": 6,
+            "showDocCount": true,
+            "isSelected": false,
+            "colorCode": "#000000"
+          },
+          {
+            "text": "Nude",
+            "key": "Nude",
+            "docCount": 6,
+            "showDocCount": true,
+            "isSelected": false,
+            "colorCode": "#d6716b"
+          },
+          {
+            "text": "Red",
+            "key": "Red",
+            "docCount": 6,
+            "showDocCount": true,
+            "isSelected": false,
+            "colorCode": "#ef0000"
+          },
+          {
+            "text": "Burgundy",
+            "key": "Burgundy",
+            "docCount": 2,
+            "showDocCount": true,
+            "isSelected": false,
+            "colorCode": "#5b0c0c"
+          },
+          {
+            "text": "Medium",
+            "key": "Medium",
+            "docCount": 1,
+            "showDocCount": true,
+            "isSelected": false,
+            "colorCode": "#f7d494"
+          },
+          {
+            "text": "Purple",
+            "key": "Purple",
+            "docCount": 1,
+            "showDocCount": true,
+            "isSelected": false,
+            "colorCode": "#963d81"
+          }
+        ]
+      },
+      {
+        "text": "Concern",
+        "name": "concern",
+        "isForMultiSelection": true,
+        "buckets": [
+          {
+            "text": "Dull hair",
+            "key": "dull hair",
+            "docCount": 26,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Damaged hair",
+            "key": "damaged hair",
+            "docCount": 21,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Frizzy hair",
+            "key": "frizzy hair",
+            "docCount": 18,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Dry scalp & hair",
+            "key": "dry scalp & hair",
+            "docCount": 15,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Dryness",
+            "key": "dryness",
+            "docCount": 14,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Limp hair",
+            "key": "limp hair",
+            "docCount": 14,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Dull complexion",
+            "key": "dull complexion",
+            "docCount": 11,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Faded colour",
+            "key": "faded colour",
+            "docCount": 9,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Hair fall",
+            "key": "hair fall",
+            "docCount": 8,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Pigmentation",
+            "key": "pigmentation",
+            "docCount": 8,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Finelines",
+            "key": "finelines",
+            "docCount": 7,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Oily scalp & hair",
+            "key": "oily scalp & hair",
+            "docCount": 7,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Uneven skintone",
+            "key": "uneven skintone",
+            "docCount": 6,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Oiliness",
+            "key": "oiliness",
+            "docCount": 3,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Open pores",
+            "key": "open pores",
+            "docCount": 3,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Acne prone",
+            "key": "acne prone",
+            "docCount": 2,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Dandruff",
+            "key": "dandruff",
+            "docCount": 2,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Oily or greasy",
+            "key": "oily or greasy",
+            "docCount": 2,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Acne & blemishes",
+            "key": "acne & blemishes",
+            "docCount": 1,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Dark spots",
+            "key": "dark spots",
+            "docCount": 1,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Fine lines & wrinkles",
+            "key": "fine lines & wrinkles",
+            "docCount": 1,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Puffy eyes",
+            "key": "puffy eyes",
+            "docCount": 1,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Tan",
+            "key": "tan",
+            "docCount": 1,
+            "showDocCount": true,
+            "isSelected": false
+          }
+        ]
+      },
+      {
+        "text": "Hair type",
+        "name": "hair_type",
+        "isForMultiSelection": true,
+        "buckets": [
+          {
+            "text": "All",
+            "key": "all",
+            "docCount": 31,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Thick",
+            "key": "thick",
+            "docCount": 7,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Thin",
+            "key": "thin",
+            "docCount": 6,
+            "showDocCount": true,
+            "isSelected": false
+          }
+        ]
+      },
+      {
+        "text": "Skin type",
+        "name": "skin_type",
+        "isForMultiSelection": true,
+        "buckets": [
+          {
+            "text": "All",
+            "key": "all",
+            "docCount": 18,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Normal",
+            "key": "normal",
+            "docCount": 16,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Dry",
+            "key": "dry",
+            "docCount": 14,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Combination",
+            "key": "combination",
+            "docCount": 4,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Oily",
+            "key": "oily",
+            "docCount": 3,
+            "showDocCount": true,
+            "isSelected": false
+          }
+        ]
+      },
+      {
+        "text": "Skin tone",
+        "name": "skin_tone",
+        "isForMultiSelection": true,
+        "buckets": [
+          {
+            "text": "Light",
+            "key": "light",
+            "docCount": 3,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Medium",
+            "key": "medium",
+            "docCount": 3,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Med light",
+            "key": "med-light",
+            "docCount": 2,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Med dark",
+            "key": "med-dark",
+            "docCount": 1,
+            "showDocCount": true,
+            "isSelected": false
+          }
+        ]
+      },
+      {
+        "text": "Look",
+        "name": "look",
+        "isForMultiSelection": true,
+        "buckets": [
+          {
+            "text": "All",
+            "key": "all",
+            "docCount": 42,
+            "showDocCount": true,
+            "isSelected": false
+          }
+        ]
+      },
+      {
+        "text": "Finish",
+        "name": "finish",
+        "isForMultiSelection": true,
+        "buckets": [
+          {
+            "text": "Matte",
+            "key": "matte",
+            "docCount": 37,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Natural",
+            "key": "natural",
+            "docCount": 12,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Shimmer",
+            "key": "shimmer",
+            "docCount": 3,
+            "showDocCount": true,
+            "isSelected": false
+          },
+          {
+            "text": "Gloss",
+            "key": "gloss",
+            "docCount": 1,
+            "showDocCount": true,
+            "isSelected": false
+          }
+        ]
+      },
+      {
+        "text": "Availability",
+        "name": "exclude_oos",
+        "isForMultiSelection": false,
+        "buckets": [
+          {
+            "text": "Exclude Out Of Stock",
+            "key": "1.0-999.0",
+            "docCount": 163,
+            "showDocCount": true,
+            "isSelected": false,
+            "from": 1,
+            "to": 999
+          }
+        ]
+      }
+    ],
+    "sorts": [
+      {
+        "text": "Popularity",
+        "name": "priority",
+        "orders": [
+          {
+            "text": "Popularity",
+            "isSelected": true,
+            "key": "priority",
+            "order": "asc"
+          }
+        ]
+      },
+      {
+        "text": "Discount",
+        "name": "discount",
+        "orders": [
+          {
+            "text": "Discount",
+            "isSelected": false,
+            "key": "discount",
+            "order": "desc"
+          }
+        ]
+      },
+      {
+        "text": "Price",
+        "name": "price",
+        "orders": [
+          {
+            "text": "High - Low",
+            "isSelected": false,
+            "key": "price",
+            "order": "desc"
+          },
+          {
+            "text": "Low - High",
+            "isSelected": false,
+            "key": "price",
+            "order": "asc"
+          }
+        ]
+      }
+    ]
+  }
+}
